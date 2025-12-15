@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-000?logo=python&logoColor=white&labelColor=000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-000?logo=opencv&logoColor=white&labelColor=000)
 ![Tesseract](https://img.shields.io/badge/Tesseract-OCR-000?logo=tesseract&logoColor=white&labelColor=000)
+[![License](https://img.shields.io/badge/License-MIT-000?logo=github&logoColor=white&labelColor=black)](LICENSE)
 
 Detects a license plate in an image with OpenCV and extracts alphanumeric text using Tesseract via `pytesseract`.
 
